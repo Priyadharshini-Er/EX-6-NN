@@ -1,5 +1,5 @@
-<H3>NAME: Rama E.K. Lekshmi</H3>
-<H3>REG NO. 212222240082</H3>
+<H3>NAME: Priyadharshini P</H3>
+<H3>REG NO. 212222100039</H3>
 <H3>EX. NO.6</H3>
 <H3>DATE:  </H3>
 <H1 ALIGN =CENTER>Heart attack prediction using MLP</H1>
